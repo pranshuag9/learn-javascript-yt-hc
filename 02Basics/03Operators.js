@@ -23,3 +23,6 @@ console.log(`
     Selling Price = ${sellingPrice}
     Discount = ${displayDiscountPercentRounded}%
 `);
+
+console.log("typeof Discount:", typeof displayDiscountPercentRounded);
+console.log("typeof 10 > 20:", typeof 10 > 20);
