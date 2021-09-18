@@ -14,3 +14,6 @@ var user = {
     },
 };
 user.getCourseCount();
+
+// https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide
+// read about queue microtasks on MDN. It's amazing concept to learn.
