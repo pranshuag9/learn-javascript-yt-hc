@@ -25,4 +25,5 @@ function sumTwo(a, b, ...args) {
 	args.forEach((i) => result += i);
 	return result;
 }
+
 console.log(sumTwo(1, 2, 3, 4, 5));
